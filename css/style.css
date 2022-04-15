@@ -1,7 +1,7 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 :root {
-    --bgImage: url(media/baal.jpg)
+    --bgImage: url(media/baal.jpg);
     --bgColor: white;
     --accentColor: #7339e0;
     --font: 'Karla', sans-serif;
