@@ -4,6 +4,7 @@
     --accentColor: #7339e0;
     --font: 'Karla', sans-serif;
 }
+
 #userPhoto{
     width: 96px;
     height: 96px;
@@ -13,7 +14,7 @@
 }
 
 #userName{
-    color: rgb(75, 71, 71);
+    color: rgb(216, 211, 248);
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.25;
