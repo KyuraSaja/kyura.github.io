@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 :root {
     --bgColor: white;
-    --accentColor: #39e09b;
+    --accentColor: #7339e0;
     --font: 'Karla', sans-serif;
 }
 
@@ -19,7 +19,7 @@ body{
 }
 
 #userName{
-    color: #bbb;
+    color: rgb(75, 71, 71);
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.25;
