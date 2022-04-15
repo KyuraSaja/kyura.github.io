@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 :root {
     --bgColor: white;
+    --bgImage: url(https://telegra.ph/file/9d40ef8e20b12010233dd.jpg);
     --accentColor: #7339e0;
     --font: 'Karla', sans-serif;
 }
