@@ -9,6 +9,7 @@
 
 body{
     background-color: var(--bgColor);
+    backgroung-image: var(--bgImage);
 }
 
 #userPhoto{
