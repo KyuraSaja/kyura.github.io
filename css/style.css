@@ -7,8 +7,7 @@
 }
 
 body{
-    background-color: var(--bgColor);
-    backgroung-image: url('https://telegra.ph/file/9d40ef8e20b12010233dd.jpg');
+    background-image: url(media/baal.jpg);
 }
 
 #userPhoto{
